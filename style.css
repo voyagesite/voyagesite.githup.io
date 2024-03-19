@@ -1,0 +1,419 @@
+html{
+    overflow-x: hidden;
+}
+#bodyht{
+    position: relative;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url(https://w.forfun.com/fetch/62/62ddad67f65870150bb121212181b52d.jpeg); 
+    background-size: cover; 
+    background-position: center; 
+    font-family: Arial, sans-serif;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.AAAAA > .AA > img{ 
+    width: 10vw;
+}
+.piedpage{
+    width: 100%;
+    background-color: beige; 
+    padding: 20px; 
+    margin: 0;
+    position: relative;
+    top: 48vh;
+    text-align: center;
+}
+
+.contact{
+    text-align: center;
+}
+.fond{
+    text-align: right;
+    padding: 100px 0; 
+    color: black; 
+    
+
+}
+h1{
+    text-align: center;
+}
+
+.titre{
+    font-size: 36px;
+    margin-left: 20px;
+    display: flex;
+    float: right;
+    width: 60%;
+}
+.A {
+    font-size: 30px;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-family: cursive;
+}
+
+header {
+
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    border-radius: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+   background-color: goldenrod;
+}
+
+
+
+#menu {
+    display: flex;
+    padding: 0;
+}
+
+#menu li {
+    list-style-type: none;
+}
+
+#menu a {
+    display: block;
+    min-width: 120px;
+}
+
+
+
+.conteneur {
+    overflow: hidden; 
+    
+}
+
+.image{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+    
+}
+.texte{
+font-size: normal;
+    overflow: hidden;
+    color: white;
+}
+.conteneur11{
+    display: flex;
+    height: 40vh;
+
+}
+.image2{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.text22{
+  display: flex;
+  float: left;
+  width: 60%;
+  height: 40vh;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.conteneur2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    clear: left;
+}
+.retour{
+    text-align: center;
+    bottom: 0; 
+    width: 100%; 
+    background-color: #f5f5f5; 
+    padding: 15px;  
+    
+}
+.cont{
+overflow: hidden;
+}
+.image3{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.text3{
+    font-size: normal;
+    overflow: hidden; 
+    color: #f5f5f5;
+    
+}
+
+.cont2{
+   
+    display: flex;
+    height: 40vh;
+}
+.image4{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.text4{
+    display: flex;
+  float: left;
+  width: 55%;
+  height: 40vh;
+  justify-content: center;
+  align-items: center;
+  color: #f5f5f5;
+}
+
+.cont3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    clear: left;
+}
+
+
+.contlos{
+    overflow: hidden; 
+}
+.imagelos{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.textlos{
+    font-size: normal;
+    overflow: hidden; 
+    color: goldenrod;
+}
+
+.contlos2{
+    display: flex;
+    height: 40vh;
+}
+
+.imagelos2{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+
+.textlos2{
+    display: flex;
+    float: left;
+    width: 60%;
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+    color: goldenrod;
+}
+
+.contlos3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    clear: left;
+}
+.conmont{
+    overflow: hidden; 
+}
+.imagemont{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.textmont{
+    font-size: normal;
+    overflow: hidden; 
+    color: #f5f5f5;
+}
+
+.conmont2{
+    display: flex;
+    height: 40vh;
+}
+.imagemont2{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.textmont2{
+    display: flex;
+    float: left;
+    width: 60%;
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+    color: #f5f5f5;
+
+}
+
+.conmont3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    clear: left;
+}
+.conpe{
+    overflow: hidden; 
+}
+.imagepek{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.textpek{
+    font-size: normal;
+    overflow: hidden; 
+    color: white;
+}
+.conpe2{
+    display: flex;
+    height: 40vh;
+}
+.imagepek2{
+    float: left;
+    margin-right: 200px;
+    margin-left: 100px;
+}
+.textpek2{
+    display: flex;
+    float: left;
+    width: 60%;
+    height: 40vh;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.conpe3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    clear: left;
+}
+li{
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 15%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1vh;
+}
+#pr{
+    background-image: url(https://i.pinimg.com/564x/eb/84/2e/eb842e54678f00e7aea74d3822650b27.jpg);
+    background-size: cover;
+}
+#pé{
+    background-image: url(https://i.pinimg.com/564x/7a/18/f3/7a18f3b68dc93496a56bdca5e5531463.jpg);
+    background-size: cover;
+}
+
+#mo{
+    background-image: url(https://i.pinimg.com/564x/c5/e5/0c/c5e50c34b7b4185b20f249372056effc.jpg);
+    background-size: cover;
+}
+
+#lo{
+    background-image: url(https://i.pinimg.com/564x/75/ed/23/75ed23dc253ce14f752988431c5c9c9c.jpg);
+    background-size: cover;
+}
+
+#ro{
+    background-image: url(https://i.pinimg.com/564x/03/54/47/035447b5ec213eedc77f57356e3cea02.jpg);
+    background-size: cover;
+}
+
+
+.los{
+    color: goldenrod;
+    font-family: cursive;
+}
+.mon{
+    color: #f5f5f5;
+    font-family: cursive;
+}
+.pra{
+    font-family: cursive;
+   color: #f5f5f5;
+}
+.pra1{
+    font-family: cursive;
+    color: #f5f5f5;
+}
+.pra2{
+    font-family: cursive;
+    
+    color: #f5f5f5;
+}
+
+
+.AA{
+    margin-right:200px ;
+    margin-left: 200px;
+
+}
+.BB{
+    margin-right:200px ;
+    margin-left: 200px;
+}
+.CC{
+    margin-right:  200px ;
+    margin-left:   200px ;
+}
+
+.DD{
+    margin-right:200px ;
+    margin-left:  200px ;
+}
+
+.EE{
+    margin-right: 200px ;
+    margin-left:  200px ;
+}
+
+.AAAAA{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.AAAAA  div {
+    
+    text-align: center;
+    margin: 10px; 
+}
+
+.AAAAA img{
+width: 300px;
+height: auto;
+
+}
